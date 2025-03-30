@@ -1,0 +1,17 @@
+E:\Projects\PruebaTecnicaPayPhone\WalletApi\WalletAPI.Infrastructure\bin\Debug\net8.0\WalletAPI.Infrastructure.deps.json
+E:\Projects\PruebaTecnicaPayPhone\WalletApi\WalletAPI.Infrastructure\bin\Debug\net8.0\WalletAPI.Infrastructure.runtimeconfig.json
+E:\Projects\PruebaTecnicaPayPhone\WalletApi\WalletAPI.Infrastructure\bin\Debug\net8.0\WalletAPI.Infrastructure.dll
+E:\Projects\PruebaTecnicaPayPhone\WalletApi\WalletAPI.Infrastructure\bin\Debug\net8.0\WalletAPI.Infrastructure.pdb
+E:\Projects\PruebaTecnicaPayPhone\WalletApi\WalletAPI.Infrastructure\bin\Debug\net8.0\WalletAPI.Domain.dll
+E:\Projects\PruebaTecnicaPayPhone\WalletApi\WalletAPI.Infrastructure\bin\Debug\net8.0\WalletAPI.Domain.pdb
+E:\Projects\PruebaTecnicaPayPhone\WalletApi\WalletAPI.Infrastructure\obj\Debug\net8.0\WalletAPI.Infrastructure.csproj.AssemblyReference.cache
+E:\Projects\PruebaTecnicaPayPhone\WalletApi\WalletAPI.Infrastructure\obj\Debug\net8.0\WalletAPI.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\PruebaTecnicaPayPhone\WalletApi\WalletAPI.Infrastructure\obj\Debug\net8.0\WalletAPI.Infrastructure.AssemblyInfoInputs.cache
+E:\Projects\PruebaTecnicaPayPhone\WalletApi\WalletAPI.Infrastructure\obj\Debug\net8.0\WalletAPI.Infrastructure.AssemblyInfo.cs
+E:\Projects\PruebaTecnicaPayPhone\WalletApi\WalletAPI.Infrastructure\obj\Debug\net8.0\WalletAPI.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Projects\PruebaTecnicaPayPhone\WalletApi\WalletAPI.Infrastructure\obj\Debug\net8.0\WalletAP.44EDE4C9.Up2Date
+E:\Projects\PruebaTecnicaPayPhone\WalletApi\WalletAPI.Infrastructure\obj\Debug\net8.0\WalletAPI.Infrastructure.dll
+E:\Projects\PruebaTecnicaPayPhone\WalletApi\WalletAPI.Infrastructure\obj\Debug\net8.0\refint\WalletAPI.Infrastructure.dll
+E:\Projects\PruebaTecnicaPayPhone\WalletApi\WalletAPI.Infrastructure\obj\Debug\net8.0\WalletAPI.Infrastructure.pdb
+E:\Projects\PruebaTecnicaPayPhone\WalletApi\WalletAPI.Infrastructure\obj\Debug\net8.0\WalletAPI.Infrastructure.genruntimeconfig.cache
+E:\Projects\PruebaTecnicaPayPhone\WalletApi\WalletAPI.Infrastructure\obj\Debug\net8.0\ref\WalletAPI.Infrastructure.dll

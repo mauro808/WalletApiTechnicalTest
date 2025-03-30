@@ -1,0 +1,602 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA7B547-3D16-42E1-AFDC-C70D6510F867}|WalletApi\\WalletApi.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA7B547-3D16-42E1-AFDC-C70D6510F867}|WalletApi\\WalletApi.csproj|solutionrelative:walletapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBDB20C-F59D-41BA-9F01-246312862CFF}|WalletAPI.Tests\\WalletAPI.Tests.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi.tests\\wallettest\\walletcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBDB20C-F59D-41BA-9F01-246312862CFF}|WalletAPI.Tests\\WalletAPI.Tests.csproj|solutionrelative:walletapi.tests\\wallettest\\walletcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBDB20C-F59D-41BA-9F01-246312862CFF}|WalletAPI.Tests\\WalletAPI.Tests.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi.tests\\walletapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8EBDB20C-F59D-41BA-9F01-246312862CFF}|WalletAPI.Tests\\WalletAPI.Tests.csproj|solutionrelative:walletapi.tests\\walletapi.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F7366E-1790-495A-9999-CEAC8F0766E0}|WalletAPI.Domain\\WalletAPI.Domain.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi.domain\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F7366E-1790-495A-9999-CEAC8F0766E0}|WalletAPI.Domain\\WalletAPI.Domain.csproj|solutionrelative:walletapi.domain\\entities\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5800AC18-ED93-4FAB-B232-4EF3E187B812}|WalletAPI.Infrastructure\\WalletAPI.Infrastructure.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5800AC18-ED93-4FAB-B232-4EF3E187B812}|WalletAPI.Infrastructure\\WalletAPI.Infrastructure.csproj|solutionrelative:walletapi.infrastructure\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F7366E-1790-495A-9999-CEAC8F0766E0}|WalletAPI.Domain\\WalletAPI.Domain.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F7366E-1790-495A-9999-CEAC8F0766E0}|WalletAPI.Domain\\WalletAPI.Domain.csproj|solutionrelative:walletapi.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F7366E-1790-495A-9999-CEAC8F0766E0}|WalletAPI.Domain\\WalletAPI.Domain.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi.domain\\entities\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F7366E-1790-495A-9999-CEAC8F0766E0}|WalletAPI.Domain\\WalletAPI.Domain.csproj|solutionrelative:walletapi.domain\\entities\\transactionhistory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F7366E-1790-495A-9999-CEAC8F0766E0}|WalletAPI.Domain\\WalletAPI.Domain.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi.domain\\entities\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F7366E-1790-495A-9999-CEAC8F0766E0}|WalletAPI.Domain\\WalletAPI.Domain.csproj|solutionrelative:walletapi.domain\\entities\\transactiontype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F7366E-1790-495A-9999-CEAC8F0766E0}|WalletAPI.Domain\\WalletAPI.Domain.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi.domain\\entities\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F7366E-1790-495A-9999-CEAC8F0766E0}|WalletAPI.Domain\\WalletAPI.Domain.csproj|solutionrelative:walletapi.domain\\entities\\operationresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0750668B-C484-47C7-B729-7138751D0541}|WalletAPI.Application\\WalletAPI.Application.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi.application\\services\\walletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0750668B-C484-47C7-B729-7138751D0541}|WalletAPI.Application\\WalletAPI.Application.csproj|solutionrelative:walletapi.application\\services\\walletservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0750668B-C484-47C7-B729-7138751D0541}|WalletAPI.Application\\WalletAPI.Application.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi.application\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0750668B-C484-47C7-B729-7138751D0541}|WalletAPI.Application\\WalletAPI.Application.csproj|solutionrelative:walletapi.application\\services\\transactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0750668B-C484-47C7-B729-7138751D0541}|WalletAPI.Application\\WalletAPI.Application.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi.application\\interfaces\\iwalletservice.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0750668B-C484-47C7-B729-7138751D0541}|WalletAPI.Application\\WalletAPI.Application.csproj|solutionrelative:walletapi.application\\interfaces\\iwalletservice.cs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0750668B-C484-47C7-B729-7138751D0541}|WalletAPI.Application\\WalletAPI.Application.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi.application\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0750668B-C484-47C7-B729-7138751D0541}|WalletAPI.Application\\WalletAPI.Application.csproj|solutionrelative:walletapi.application\\interfaces\\itransactionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0750668B-C484-47C7-B729-7138751D0541}|WalletAPI.Application\\WalletAPI.Application.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi.application\\dtos\\updatewalletdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0750668B-C484-47C7-B729-7138751D0541}|WalletAPI.Application\\WalletAPI.Application.csproj|solutionrelative:walletapi.application\\dtos\\updatewalletdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0750668B-C484-47C7-B729-7138751D0541}|WalletAPI.Application\\WalletAPI.Application.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0750668B-C484-47C7-B729-7138751D0541}|WalletAPI.Application\\WalletAPI.Application.csproj|solutionrelative:walletapi.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0750668B-C484-47C7-B729-7138751D0541}|WalletAPI.Application\\WalletAPI.Application.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi.application\\dtos\\createwalletdtoexampleschemafilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0750668B-C484-47C7-B729-7138751D0541}|WalletAPI.Application\\WalletAPI.Application.csproj|solutionrelative:walletapi.application\\dtos\\createwalletdtoexampleschemafilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0750668B-C484-47C7-B729-7138751D0541}|WalletAPI.Application\\WalletAPI.Application.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi.application\\dtos\\createwalletdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0750668B-C484-47C7-B729-7138751D0541}|WalletAPI.Application\\WalletAPI.Application.csproj|solutionrelative:walletapi.application\\dtos\\createwalletdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0750668B-C484-47C7-B729-7138751D0541}|WalletAPI.Application\\WalletAPI.Application.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi.application\\dtos\\createtransactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0750668B-C484-47C7-B729-7138751D0541}|WalletAPI.Application\\WalletAPI.Application.csproj|solutionrelative:walletapi.application\\dtos\\createtransactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA7B547-3D16-42E1-AFDC-C70D6510F867}|WalletApi\\WalletApi.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi\\walletapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{6AA7B547-3D16-42E1-AFDC-C70D6510F867}|WalletApi\\WalletApi.csproj|solutionrelative:walletapi\\walletapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA7B547-3D16-42E1-AFDC-C70D6510F867}|WalletApi\\WalletApi.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6AA7B547-3D16-42E1-AFDC-C70D6510F867}|WalletApi\\WalletApi.csproj|solutionrelative:walletapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5800AC18-ED93-4FAB-B232-4EF3E187B812}|WalletAPI.Infrastructure\\WalletAPI.Infrastructure.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5800AC18-ED93-4FAB-B232-4EF3E187B812}|WalletAPI.Infrastructure\\WalletAPI.Infrastructure.csproj|solutionrelative:walletapi.infrastructure\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5800AC18-ED93-4FAB-B232-4EF3E187B812}|WalletAPI.Infrastructure\\WalletAPI.Infrastructure.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi.infrastructure\\migrations\\20250330043928_addusertable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5800AC18-ED93-4FAB-B232-4EF3E187B812}|WalletAPI.Infrastructure\\WalletAPI.Infrastructure.csproj|solutionrelative:walletapi.infrastructure\\migrations\\20250330043928_addusertable.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5800AC18-ED93-4FAB-B232-4EF3E187B812}|WalletAPI.Infrastructure\\WalletAPI.Infrastructure.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi.infrastructure\\migrations\\20250330043928_addusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5800AC18-ED93-4FAB-B232-4EF3E187B812}|WalletAPI.Infrastructure\\WalletAPI.Infrastructure.csproj|solutionrelative:walletapi.infrastructure\\migrations\\20250330043928_addusertable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5800AC18-ED93-4FAB-B232-4EF3E187B812}|WalletAPI.Infrastructure\\WalletAPI.Infrastructure.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi.infrastructure\\migrations\\20250329195250_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5800AC18-ED93-4FAB-B232-4EF3E187B812}|WalletAPI.Infrastructure\\WalletAPI.Infrastructure.csproj|solutionrelative:walletapi.infrastructure\\migrations\\20250329195250_initialcreate.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5800AC18-ED93-4FAB-B232-4EF3E187B812}|WalletAPI.Infrastructure\\WalletAPI.Infrastructure.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi.infrastructure\\migrations\\20250329195250_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5800AC18-ED93-4FAB-B232-4EF3E187B812}|WalletAPI.Infrastructure\\WalletAPI.Infrastructure.csproj|solutionrelative:walletapi.infrastructure\\migrations\\20250329195250_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA7B547-3D16-42E1-AFDC-C70D6510F867}|WalletApi\\WalletApi.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6AA7B547-3D16-42E1-AFDC-C70D6510F867}|WalletApi\\WalletApi.csproj|solutionrelative:walletapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA7B547-3D16-42E1-AFDC-C70D6510F867}|WalletApi\\WalletApi.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA7B547-3D16-42E1-AFDC-C70D6510F867}|WalletApi\\WalletApi.csproj|solutionrelative:walletapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5800AC18-ED93-4FAB-B232-4EF3E187B812}|WalletAPI.Infrastructure\\WalletAPI.Infrastructure.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi.infrastructure\\walletapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5800AC18-ED93-4FAB-B232-4EF3E187B812}|WalletAPI.Infrastructure\\WalletAPI.Infrastructure.csproj|solutionrelative:walletapi.infrastructure\\walletapi.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA7B547-3D16-42E1-AFDC-C70D6510F867}|WalletApi\\WalletApi.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi\\controllers\\walletscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA7B547-3D16-42E1-AFDC-C70D6510F867}|WalletApi\\WalletApi.csproj|solutionrelative:walletapi\\controllers\\walletscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6AA7B547-3D16-42E1-AFDC-C70D6510F867}|WalletApi\\WalletApi.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6AA7B547-3D16-42E1-AFDC-C70D6510F867}|WalletApi\\WalletApi.csproj|solutionrelative:walletapi\\controllers\\transactionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0750668B-C484-47C7-B729-7138751D0541}|WalletAPI.Application\\WalletAPI.Application.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0750668B-C484-47C7-B729-7138751D0541}|WalletAPI.Application\\WalletAPI.Application.csproj|solutionrelative:walletapi.application\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EBDB20C-F59D-41BA-9F01-246312862CFF}|WalletAPI.Tests\\WalletAPI.Tests.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi.tests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EBDB20C-F59D-41BA-9F01-246312862CFF}|WalletAPI.Tests\\WalletAPI.Tests.csproj|solutionrelative:walletapi.tests\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5800AC18-ED93-4FAB-B232-4EF3E187B812}|WalletAPI.Infrastructure\\WalletAPI.Infrastructure.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5800AC18-ED93-4FAB-B232-4EF3E187B812}|WalletAPI.Infrastructure\\WalletAPI.Infrastructure.csproj|solutionrelative:walletapi.infrastructure\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53F7366E-1790-495A-9999-CEAC8F0766E0}|WalletAPI.Domain\\WalletAPI.Domain.csproj|e:\\projects\\pruebatecnicapayphone\\walletapi\\walletapi.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F7366E-1790-495A-9999-CEAC8F0766E0}|WalletAPI.Domain\\WalletAPI.Domain.csproj|solutionrelative:walletapi.domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WalletCreate.cs",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Tests\\WalletTest\\WalletCreate.cs",
+              "RelativeDocumentMoniker": "WalletAPI.Tests\\WalletTest\\WalletCreate.cs",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Tests\\WalletTest\\WalletCreate.cs",
+              "RelativeToolTip": "WalletAPI.Tests\\WalletTest\\WalletCreate.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCgAAABlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T05:04:14.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OperationResult.cs",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Domain\\Entities\\OperationResult.cs",
+              "RelativeDocumentMoniker": "WalletAPI.Domain\\Entities\\OperationResult.cs",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Domain\\Entities\\OperationResult.cs",
+              "RelativeToolTip": "WalletAPI.Domain\\Entities\\OperationResult.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T01:45:32.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TransactionType.cs",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Domain\\Entities\\TransactionType.cs",
+              "RelativeDocumentMoniker": "WalletAPI.Domain\\Entities\\TransactionType.cs",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Domain\\Entities\\TransactionType.cs",
+              "RelativeToolTip": "WalletAPI.Domain\\Entities\\TransactionType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:16:49.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Domain\\Entities\\Wallet.cs",
+              "RelativeDocumentMoniker": "WalletAPI.Domain\\Entities\\Wallet.cs",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Domain\\Entities\\Wallet.cs",
+              "RelativeToolTip": "WalletAPI.Domain\\Entities\\Wallet.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:15:42.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WalletApi\\Controllers\\AuthController.cs",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WalletApi\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAqwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T04:24:02.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WalletAPI.Tests",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Tests\\WalletAPI.Tests.csproj",
+              "RelativeDocumentMoniker": "WalletAPI.Tests\\WalletAPI.Tests.csproj",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Tests\\WalletAPI.Tests.csproj",
+              "RelativeToolTip": "WalletAPI.Tests\\WalletAPI.Tests.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-30T05:18:14.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TransactionHistory.cs",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Domain\\Entities\\TransactionHistory.cs",
+              "RelativeDocumentMoniker": "WalletAPI.Domain\\Entities\\TransactionHistory.cs",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Domain\\Entities\\TransactionHistory.cs",
+              "RelativeToolTip": "WalletAPI.Domain\\Entities\\TransactionHistory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:16:25.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "WalletAPI.Domain\\Entities\\User.cs",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "WalletAPI.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T04:34:19.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WalletAPI.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WalletAPI.Infrastructure\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA9wAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:22:44.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WalletService.cs",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi.Application\\Services\\WalletService.cs",
+              "RelativeDocumentMoniker": "WalletApi.Application\\Services\\WalletService.cs",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi.Application\\Services\\WalletService.cs",
+              "RelativeToolTip": "WalletApi.Application\\Services\\WalletService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEYAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T00:06:58.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TransactionService.cs",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi.Application\\Services\\TransactionService.cs",
+              "RelativeDocumentMoniker": "WalletApi.Application\\Services\\TransactionService.cs",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi.Application\\Services\\TransactionService.cs",
+              "RelativeToolTip": "WalletApi.Application\\Services\\TransactionService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T00:01:39.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IWalletService.cs.cs",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi.Application\\Interfaces\\IWalletService.cs.cs",
+              "RelativeDocumentMoniker": "WalletApi.Application\\Interfaces\\IWalletService.cs.cs",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi.Application\\Interfaces\\IWalletService.cs.cs",
+              "RelativeToolTip": "WalletApi.Application\\Interfaces\\IWalletService.cs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:19:13.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ITransactionService.cs",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi.Application\\Interfaces\\ITransactionService.cs",
+              "RelativeDocumentMoniker": "WalletApi.Application\\Interfaces\\ITransactionService.cs",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi.Application\\Interfaces\\ITransactionService.cs",
+              "RelativeToolTip": "WalletApi.Application\\Interfaces\\ITransactionService.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:30:35.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateWalletDto.cs",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi.Application\\DTOs\\UpdateWalletDto.cs",
+              "RelativeDocumentMoniker": "WalletApi.Application\\DTOs\\UpdateWalletDto.cs",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi.Application\\DTOs\\UpdateWalletDto.cs",
+              "RelativeToolTip": "WalletApi.Application\\DTOs\\UpdateWalletDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T01:44:06.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi.Application\\DTOs\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "WalletApi.Application\\DTOs\\LoginDTO.cs",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi.Application\\DTOs\\LoginDTO.cs",
+              "RelativeToolTip": "WalletApi.Application\\DTOs\\LoginDTO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T04:28:03.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CreateWalletDtoExampleSchemaFilter.cs",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi.Application\\DTOs\\CreateWalletDtoExampleSchemaFilter.cs",
+              "RelativeDocumentMoniker": "WalletApi.Application\\DTOs\\CreateWalletDtoExampleSchemaFilter.cs",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi.Application\\DTOs\\CreateWalletDtoExampleSchemaFilter.cs",
+              "RelativeToolTip": "WalletApi.Application\\DTOs\\CreateWalletDtoExampleSchemaFilter.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAcwAoAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:56:00.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateWalletDTO.cs",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi.Application\\DTOs\\CreateWalletDTO.cs",
+              "RelativeDocumentMoniker": "WalletApi.Application\\DTOs\\CreateWalletDTO.cs",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi.Application\\DTOs\\CreateWalletDTO.cs",
+              "RelativeToolTip": "WalletApi.Application\\DTOs\\CreateWalletDTO.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:57:13.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateTransactionDto.cs",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi.Application\\DTOs\\CreateTransactionDto.cs",
+              "RelativeDocumentMoniker": "WalletApi.Application\\DTOs\\CreateTransactionDto.cs",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi.Application\\DTOs\\CreateTransactionDto.cs",
+              "RelativeToolTip": "WalletApi.Application\\DTOs\\CreateTransactionDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T02:58:54.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WalletApi.http",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi\\WalletApi.http",
+              "RelativeDocumentMoniker": "WalletApi\\WalletApi.http",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi\\WalletApi.http",
+              "RelativeToolTip": "WalletApi\\WalletApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-03-30T04:59:05.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "WalletApi\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "WalletApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAlwBoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-30T04:58:59.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WalletAPI.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WalletAPI.Infrastructure\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T04:58:58.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250330043928_AddUserTable.Designer.cs",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Infrastructure\\Migrations\\20250330043928_AddUserTable.Designer.cs",
+              "RelativeDocumentMoniker": "WalletAPI.Infrastructure\\Migrations\\20250330043928_AddUserTable.Designer.cs",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Infrastructure\\Migrations\\20250330043928_AddUserTable.Designer.cs",
+              "RelativeToolTip": "WalletAPI.Infrastructure\\Migrations\\20250330043928_AddUserTable.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T04:58:56.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250330043928_AddUserTable.cs",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Infrastructure\\Migrations\\20250330043928_AddUserTable.cs",
+              "RelativeDocumentMoniker": "WalletAPI.Infrastructure\\Migrations\\20250330043928_AddUserTable.cs",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Infrastructure\\Migrations\\20250330043928_AddUserTable.cs",
+              "RelativeToolTip": "WalletAPI.Infrastructure\\Migrations\\20250330043928_AddUserTable.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowB4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T04:58:53.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250329195250_InitialCreate.Designer.cs",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Infrastructure\\Migrations\\20250329195250_InitialCreate.Designer.cs",
+              "RelativeDocumentMoniker": "WalletAPI.Infrastructure\\Migrations\\20250329195250_InitialCreate.Designer.cs",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Infrastructure\\Migrations\\20250329195250_InitialCreate.Designer.cs",
+              "RelativeToolTip": "WalletAPI.Infrastructure\\Migrations\\20250329195250_InitialCreate.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T04:58:50.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250329195250_InitialCreate.cs",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Infrastructure\\Migrations\\20250329195250_InitialCreate.cs",
+              "RelativeDocumentMoniker": "WalletAPI.Infrastructure\\Migrations\\20250329195250_InitialCreate.cs",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Infrastructure\\Migrations\\20250329195250_InitialCreate.cs",
+              "RelativeToolTip": "WalletAPI.Infrastructure\\Migrations\\20250329195250_InitialCreate.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAowDoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T04:58:40.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "TransactionsController.cs",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi\\Controllers\\TransactionsController.cs",
+              "RelativeDocumentMoniker": "WalletApi\\Controllers\\TransactionsController.cs",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi\\Controllers\\TransactionsController.cs",
+              "RelativeToolTip": "WalletApi\\Controllers\\TransactionsController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:29:32.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi\\appsettings.json",
+              "RelativeDocumentMoniker": "WalletApi\\appsettings.json",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi\\appsettings.json",
+              "RelativeToolTip": "WalletApi\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-29T19:46:04.789Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "WalletAPI.Infrastructure.csproj",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Infrastructure\\WalletAPI.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "WalletAPI.Infrastructure\\WalletAPI.Infrastructure.csproj",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Infrastructure\\WalletAPI.Infrastructure.csproj",
+              "RelativeToolTip": "WalletAPI.Infrastructure\\WalletAPI.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-30T00:07:40.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi\\Program.cs",
+              "RelativeDocumentMoniker": "WalletApi\\Program.cs",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi\\Program.cs",
+              "RelativeToolTip": "WalletApi\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAcwBAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T19:11:01.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "WalletsController.cs",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi\\Controllers\\WalletsController.cs",
+              "RelativeDocumentMoniker": "WalletApi\\Controllers\\WalletsController.cs",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi\\Controllers\\WalletsController.cs",
+              "RelativeToolTip": "WalletApi\\Controllers\\WalletsController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAArwBQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T23:27:32.777Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi.Application\\Class1.cs",
+              "RelativeDocumentMoniker": "WalletApi.Application\\Class1.cs",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletApi.Application\\Class1.cs",
+              "RelativeToolTip": "WalletApi.Application\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:05:35.055Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Tests\\Class1.cs",
+              "RelativeDocumentMoniker": "WalletAPI.Tests\\Class1.cs",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Tests\\Class1.cs",
+              "RelativeToolTip": "WalletAPI.Tests\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:07:13.633Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Infrastructure\\Class1.cs",
+              "RelativeDocumentMoniker": "WalletAPI.Infrastructure\\Class1.cs",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Infrastructure\\Class1.cs",
+              "RelativeToolTip": "WalletAPI.Infrastructure\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:06:23.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "WalletAPI.Domain\\Class1.cs",
+              "ToolTip": "E:\\Projects\\PruebaTecnicaPayPhone\\WalletApi\\WalletAPI.Domain\\Class1.cs",
+              "RelativeToolTip": "WalletAPI.Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-29T18:06:01.382Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
