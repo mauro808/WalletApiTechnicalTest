@@ -1,0 +1,11 @@
+E:\Projects\PruebaTecnicaPayPhone\WalletApi\WalletAPI.Domain\bin\Debug\net8.0\WalletAPI.Domain.deps.json
+E:\Projects\PruebaTecnicaPayPhone\WalletApi\WalletAPI.Domain\bin\Debug\net8.0\WalletAPI.Domain.dll
+E:\Projects\PruebaTecnicaPayPhone\WalletApi\WalletAPI.Domain\bin\Debug\net8.0\WalletAPI.Domain.pdb
+E:\Projects\PruebaTecnicaPayPhone\WalletApi\WalletAPI.Domain\obj\Debug\net8.0\WalletAPI.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projects\PruebaTecnicaPayPhone\WalletApi\WalletAPI.Domain\obj\Debug\net8.0\WalletAPI.Domain.AssemblyInfoInputs.cache
+E:\Projects\PruebaTecnicaPayPhone\WalletApi\WalletAPI.Domain\obj\Debug\net8.0\WalletAPI.Domain.AssemblyInfo.cs
+E:\Projects\PruebaTecnicaPayPhone\WalletApi\WalletAPI.Domain\obj\Debug\net8.0\WalletAPI.Domain.csproj.CoreCompileInputs.cache
+E:\Projects\PruebaTecnicaPayPhone\WalletApi\WalletAPI.Domain\obj\Debug\net8.0\WalletAPI.Domain.dll
+E:\Projects\PruebaTecnicaPayPhone\WalletApi\WalletAPI.Domain\obj\Debug\net8.0\refint\WalletAPI.Domain.dll
+E:\Projects\PruebaTecnicaPayPhone\WalletApi\WalletAPI.Domain\obj\Debug\net8.0\WalletAPI.Domain.pdb
+E:\Projects\PruebaTecnicaPayPhone\WalletApi\WalletAPI.Domain\obj\Debug\net8.0\ref\WalletAPI.Domain.dll
